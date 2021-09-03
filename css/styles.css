@@ -1,0 +1,157 @@
+.topHeader{
+    background-color:#fff;
+    border:silver;
+    
+}
+
+.headings{
+    color:black;
+    margin:5px;
+}
+.bottom-Header{
+    
+}
+.bottomHeader .container-fluid{
+    padding-left: 0%;
+    padding-right:0%;
+    
+}
+
+.brand{
+    display:inline;
+    color:black;
+    font-family:"Zen Tokyo Zoo";
+}
+.container-fluid nav a{
+    margin:5px;
+}
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.description{
+    text-align:left;
+}
+/* start footer */
+footer{
+    
+   
+    
+    
+}
+.top-footer{
+    color:white;
+    background-color:#fd79a8;
+    
+   
+    
+}
+.links{
+    display:block;
+    color:#fff;
+}
+.brand{
+    display:inline;
+    
+}
+
+.bottom-footer{
+    
+    
+    margin-top:10px;
+    padding-bottom:10px;
+}
+#tricky{
+    width:100%;
+}
+/* ending of footer */
+.intro{
+    background-color:#88FFF7;
+    padding: 60px;
+    
+}
+.btn{
+    font-weight: 600;
+}
+#middle-icons{
+    margin:25px;
+}
+/* start of requirement section */
+.Requirements-section{
+ background-color:#004d80;
+ color:white;
+ text-align: center;
+ font-weight: 500;
+
+}
+.about-image{
+    width:70%;
+}
+.about{
+    padding-top:20px;
+    padding-bottom:20px;
+   
+}
+/* start of about us */
+.CEO-image{
+    width:90%;
+    border-radius:50%;
+}
+@media {
+    
+}
+.CEO-image{
+
+ }
+
+
+.breadcumbs-section{
+    background-color:#e9ecef;
+}
+
+/* starting of newsletter section */
+.newsletter {
+    padding: 15px 0;
+    background: #19beda;
+    }
+    
+    .newsletter .content {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 2; }
+    .newsletter .content h2 {
+    color: #243c4f;
+    margin-bottom: 30px; }
+    .newsletter .content .form-control {
+    height: 40px;
+    border-color: #ffffff;
+    border-radius:0;
+    }
+    .newsletter .content.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #243c4f;
+    }
+    .newsletter .content .btn {
+    min-height: 40px; 
+    border-radius:0;
+    background: #243c4f;
+    color: #fff;
+    font-weight:600;
+    }
+    /* starting of portfolio */
+
+    .work-images{
+        width:300px;
+        height:200px;
+    }
+
+    .webdesign-images{
+        margin: 10px;
+    }
+    .bar{
+        margin:3px;
+        border-radius:2%;
+
+    }
